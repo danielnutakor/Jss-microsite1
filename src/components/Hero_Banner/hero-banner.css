@@ -1,8 +1,8 @@
 /* eslint-disable */
 .hero-banner-container {
   color: rgba(255, 255, 255, 1);
-  width: 100%;
-  height: 600px;
+  width: 1440px;
+  height: 100vh !important;
   display: flex;
   max-width: 100%;
   align-items: center;
@@ -26,7 +26,8 @@
   justify-content: center;
   background-color: #EBEBEB;
   background-image: url(https://app.kajoo.ai/graphics/default.svg);
-  background-position: center center;
+  background-repeat: no-repeat;
+  background-position: left center;
 }
 .hero-banner-header {
   width: 100%;
@@ -53,24 +54,59 @@
   color: rgba(21, 88, 151, 255);
   width: 150px;
   height: 54px;
+  display: flex;
+  overflow: hidden;
+  font-size: 14px;
   max-width: 100%;
-  align-self: flex-start;
+  min-width:                           ;
+  align-self: center;
   flex-basis: 50%;
+  max-height: 100%;
   text-align: center;
+  align-items:                                                                                 ;
   font-family: Lato;
   font-weight: bold;
+  padding-top: 14px;
   border-color: rgba(21, 88, 151, 255);
   border-style: solid;
   border-width: 4px;
+  padding-left: 25px;
   border-radius: 50px;
+  padding-right: 25px;
+  flex-direction: column;
+  padding-bottom: 12px;
+  justify-content: center;
   background-color: rgba(255, 255, 255, 255);
+  -webkit-user-drag: none;
 }
 .hero-banner-link1 {
+  color: rgba(21, 88, 151, 255);
   width: 154px;
   height: 54px;
+  display: flex;
+  overflow: hidden;
+  font-size: 14px;
   max-width: 100%;
-  align-self: flex-start;
+  min-width:                             ;
+  align-self: center;
   flex-basis: 50%;
+  max-height: 100%;
+  text-align: center;
+  align-items:                                                                                   ;
+  font-family: Lato;
+  font-weight: bold;
+  padding-top: 14px;
+  border-color: rgba(21, 88, 151, 255);
+  border-style: solid;
+  border-width: 2px;
+  padding-left: 25px;
+  border-radius: 50px;
+  padding-right: 25px;
+  flex-direction: column;
+  padding-bottom: 12px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 255);
+  -webkit-user-drag: none;
 }
 .hero-banner-container3 {
   flex: 1;
@@ -89,6 +125,7 @@
   justify-content: center;
   background-color: #EBEBEB;
   background-image: url(https://app.kajoo.ai/graphics/default.svg);
+  background-repeat: no-repeat;
   background-position: center center;
 }
 .hero-banner-header1 {
@@ -102,11 +139,32 @@
   max-width: 100%;
 }
 .hero-banner-link2 {
-  width: unset;
+  color: rgba(21, 88, 151, 255);
+  width: 280px;
   height: 46px;
+  display: flex;
+  overflow: hidden;
+  font-size: 14px;
   max-width: 100%;
   min-width: 240px;
-  align-self: flex-start;
+  align-self: center;
+  max-height: 100%;
+  text-align: center;
+  align-items:                                                                                 ;
+  font-family: Lato;
+  font-weight: bold;
+  padding-top: 14px;
+  border-color: rgba(21, 88, 151, 255);
+  border-style: solid;
+  border-width: 2px;
+  padding-left: 25px;
+  border-radius: 50px;
+  padding-right: 25px;
+  flex-direction: column;
+  padding-bottom: 12px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 255);
+  -webkit-user-drag: none;
 }
 .hero-banner-undefined-container-default {
   display: flex;
@@ -127,24 +185,28 @@
 }
 .hero-banner-undefined-link-round-link {
   color: rgba(21, 88, 151, 255);
-  width: 150px;
-  height: 54px;
+  width: auto;
+  height: auto;
   display: flex;
   overflow: hidden;
   font-size: 14px;
-  min-width: 30px;
-  align-self: flex-start;
+  max-width: 100%;
+  min-width:                       ;
+  align-self: center;
   max-height: 100%;
   text-align: center;
-  align-items: left;
+  align-items:                                                                             ;
   font-family: Lato;
   font-weight: bold;
+  padding-top: 14px;
   border-color: rgba(21, 88, 151, 255);
   border-style: solid;
-  border-width: 4px;
-  padding-left: 5px;
+  border-width: 2px;
+  padding-left: 25px;
   border-radius: 50px;
+  padding-right: 25px;
   flex-direction: column;
+  padding-bottom: 12px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 255);
   -webkit-user-drag: none;
@@ -159,10 +221,36 @@
     justify-content: space-between;
   }
   .hero-banner-container1 {
+    display: flex;
     max-width: 100%;
+    align-items: flex-start;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex-direction: column;
+    padding-bottom: 20px;
+    background-size: contain;
+    justify-content: center;
+    background-color: #EBEBEB;
+    background-image: url(https://app.kajoo.ai/graphics/default.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
   }
   .hero-banner-container3 {
+    display: flex;
     max-width: 100%;
+    align-items: flex-start;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex-direction: column;
+    padding-bottom: 20px;
+    background-size: contain;
+    justify-content: center;
+    background-color: #EBEBEB;
+    background-image: url(https://app.kajoo.ai/graphics/default.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
   }
 }
 @media(max-width: 640px) {
