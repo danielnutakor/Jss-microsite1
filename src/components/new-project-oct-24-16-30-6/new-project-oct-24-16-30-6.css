@@ -1,0 +1,223 @@
+.new-project-oct-24-16-30-6-main {
+  display: flex;
+  flex-direction: row;
+}
+
+.new-project-oct-24-16-30-6-desktop1 {
+  background: rgba(255, 255, 255, 1);
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 0;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: row;
+}
+
+.new-project-oct-24-16-30-6-rectangle5 {
+  background: rgba(255, 255, 255, 1);
+  top: 0px;
+  left: 0px;
+  width: 770px;
+  height: 1024px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+
+.new-project-oct-24-16-30-6-mymindt-z-cr-fp-s-ni-i-qunsplash1 {
+  top: -103px;
+  left: 409px;
+  width: 1473px;
+  height: 1127px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+
+.new-project-oct-24-16-30-6-rectangle1 {
+  background: rgba(247, 251, 254, 1);
+  top: 0px;
+  left: 0px;
+  width: 770px;
+  height: 1024px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+
+.new-project-oct-24-16-30-6-text {
+  font: normal 700 96px/70px Roboto;
+  top: 261px;
+  left: 211px;
+  color: rgba(23, 21, 21, 1);
+  width: 338px;
+  height: auto;
+  position: absolute;
+  flex-grow: 0;
+  align-self: auto;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.new-project-oct-24-16-30-6-rectangle2 {
+  border: 1px solid rgba(72, 72, 72, 1);
+  background: rgba(23, 21, 21, 1);
+  top: 392px;
+  left: 152px;
+  width: 465px;
+  height: 55px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+
+.new-project-oct-24-16-30-6-text1 {
+  font: normal 400 18px/70px Roboto;
+  top: 384px;
+  left: 170px;
+  color: rgba(229, 229, 229, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  flex-grow: 0;
+  align-self: auto;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.new-project-oct-24-16-30-6-rectangle3 {
+  border: 1px solid rgba(72, 72, 72, 1);
+  background: rgba(23, 21, 21, 1);
+  top: 469px;
+  left: 152px;
+  width: 465px;
+  height: 55px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+
+.new-project-oct-24-16-30-6-text2 {
+  font: normal 400 18px/70px Roboto;
+  top: 460px;
+  left: 170px;
+  color: rgba(229, 229, 229, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  flex-grow: 0;
+  align-self: auto;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.new-project-oct-24-16-30-6-rich-text {
+  font: normal 400 18px/70px Roboto;
+  top: 684px;
+  left: 232px;
+  color: rgba(23, 21, 21, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  flex-grow: 0;
+  align-self: auto;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.new-project-oct-24-16-30-6-group1 {
+  top: 546.5072021484375px;
+  left: 152px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+
+.new-project-oct-24-16-30-6-text3 {
+  font: normal 400 18px/70px Roboto;
+  top: 522px;
+  left: 183px;
+  color: rgba(72, 72, 72, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  flex-grow: 0;
+  align-self: auto;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.new-project-oct-24-16-30-6-group2 {
+  top: 608px;
+  left: 177px;
+  width: 415px;
+  height: 78px;
+  display: flex;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+
+.new-project-oct-24-16-30-6-rectangle4 {
+  border: 1px solid rgba(144, 154, 160, 1);
+  background: rgba(201, 19, 221, 1);
+  top: 7px;
+  left: 0px;
+  width: 415px;
+  height: 63px;
+  position: absolute;
+  flex-grow: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 15px;
+}
+
+.new-project-oct-24-16-30-6-text4 {
+  font: normal 700 24px/70px Roboto;
+  top: 0px;
+  left: 158px;
+  color: rgba(229, 229, 229, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  flex-grow: 0;
+  align-self: auto;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
